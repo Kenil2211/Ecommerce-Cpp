@@ -1,0 +1,6 @@
+fname-->kenil
+lname-->patel
+phone number-->9712242211
+Address-->vasna, ahmedabad-07
+username-->k2211
+password-->k@2211

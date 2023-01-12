@@ -1,0 +1,6 @@
+fname-->priyansh
+lname-->patel
+phone number-->984354232
+Address-->iycbenecee
+username-->alpha
+password-->alpha

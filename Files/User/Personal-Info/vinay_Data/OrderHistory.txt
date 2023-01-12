@@ -1,0 +1,18 @@
+Order Date and Time : Thu Jul 14 14:15:19 2022
+
+3
+Product Name : iPhone 13 Mini 
+Product Price : Rs. 64999
+
+Order Date and Time : Thu Jul 14 14:17:42 2022
+
+2
+Product Name : Lenovo IdeaPad
+Product Price : Rs. 28500
+
+Order Date and Time : Thu Jul 14 14:20:27 2022
+
+1
+Product Name : HP 14s Ryzen 5
+Product Price : Rs. 47009
+

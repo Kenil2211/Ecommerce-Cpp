@@ -1,0 +1,7 @@
+fname-->om
+lname-->patel
+phone number-->98284522
+Address-->gota ahmedabad
+username-->omshan
+password-->ompatel
+

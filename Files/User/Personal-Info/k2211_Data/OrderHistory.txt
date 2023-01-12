@@ -1,0 +1,24 @@
+Order Date and Time : Tue Jul 12 15:58:51 2022
+
+3
+Product Name : iPhone 13 Mini 
+Product Price : Rs. 64999
+6
+Product Name : iwatch Series 7
+Product Price : Rs. 15000
+
+Order Date and Time : Tue Jul 12 16:05:28 2022
+
+3
+Product Name : iPhone 13 Mini 
+Product Price : Rs. 64999
+6
+Product Name : iwatch Series 7
+Product Price : Rs. 15000
+
+Order Date and Time : Tue Jul 12 16:15:24 2022
+
+6
+Product Name : iwatch Series 7
+Product Price : Rs. 15000
+

@@ -1,0 +1,6 @@
+Order Date and Time : Fri Jul 15 18:46:30 2022
+
+2
+Product Name : Lenovo IdeaPad
+Product Price : Rs. 28500
+

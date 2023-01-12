@@ -1,0 +1,6 @@
+fname-->lata
+lname-->mangeshkar
+phone number-->9876543112
+Address-->delhi
+username-->lata123
+password-->lata123

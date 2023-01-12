@@ -1,0 +1,6 @@
+fname-->Vinay
+lname-->Mungra
+phone number-->12345
+Address-->jamnagar
+username-->vinay
+password-->123456
